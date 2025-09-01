@@ -17,10 +17,10 @@ It includes Dark/Light Theme Toggle, Calculation History Panel, and Full Keyboar
 ## 📷 Screenshots
 
 ### 🖤 Dark Mode
-![Dark Mode](assets/calculator%202.png)   
+![Dark Mode](assets/calculator2.png)   
 
 ### 🤍 Light Mode
-![Light Page](assets/claculator%20.png) 
+![Light Page](assets/claculator.png) 
 
 ---
 
