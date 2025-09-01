@@ -17,10 +17,10 @@ It includes Dark/Light Theme Toggle, Calculation History Panel, and Full Keyboar
 ## 📷 Screenshots
 
 ### 🖤 Dark Mode
-![Dark Mode](assets/calculator 2.png)  
+![Dark Mode](assets/calculator%202.png)   
 
 ### 🤍 Light Mode
-![Home Page](assets/claculator .png)  
+![Light Page](assets/claculator%20.png) 
 
 ---
 
@@ -67,7 +67,7 @@ calculator-app/
 | ( and )   | Brackets         |
 
 🌐 Live Demo
-🔗 [Click Here to Try](https://anuj-jha-1.github.io/english-dictionary/)  
+🔗 [Click Here to Try](https://anuj-jha-1.github.io/Calculator-app/)  
 
 📜 License
 This project is licensed under the MIT License – free to use and modify.
