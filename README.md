@@ -1,33 +1,33 @@
 # 🧮 Modern Calculator Web App
 
-A sleek and responsive **Calculator Application** built using **HTML, CSS, and JavaScript**.  
-It comes with **Dark/Light Theme**, **Calculation History**, and **Full Keyboard Input Support**.
+A sleek and responsive Calculator Application built using HTML, CSS, and JavaScript.
+It includes Dark/Light Theme Toggle, Calculation History Panel, and Full Keyboard Input Support.
 
 ---
 
 ## 🚀 Features
-- 🌗 **Dark/Light Theme Toggle** for comfortable use anytime
-- 📜 **Calculation History Panel** to see previous operations
-- ⌨️ **Keyboard Input Support** for faster calculations
-- 📱 **Responsive Design** (Works on desktop & mobile)
-- ⚡ Smooth UI animations and clean interface
+🌗 Dark/Light Theme Toggle – Comfortable usage anytime
+📜 Calculation History Panel – View your past operations
+⌨️ Keyboard Input Support – Perform faster calculations
+📱 Responsive Design – Works smoothly on desktop & mobile
+⚡ Clean UI with smooth animations
 
 ---
 
 ## 📷 Screenshots
 
 ### 🖤 Dark Mode
-![Dark Mode Screenshot](claculator.png)
+![Dark Mode](assets/calculator 2.png)  
 
 ### 🤍 Light Mode
-![Light Mode Screenshot](calculator2.png)
+![Home Page](assets/claculator .png)  
 
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3** (Custom properties for theming)
-- **JavaScript (ES6)**
+- HTML5
+- CSS3 (Custom properties for theming)
+- JavaScript (ES6)
 
 ---
 
@@ -67,8 +67,7 @@ calculator-app/
 | ( and )   | Brackets         |
 
 🌐 Live Demo
-You can view the live demo of this calculator using GitHub Pages:
-🔗 Coming soon...
+🔗 [Click Here to Try](https://anuj-jha-1.github.io/english-dictionary/)  
 
 📜 License
 This project is licensed under the MIT License – free to use and modify.
